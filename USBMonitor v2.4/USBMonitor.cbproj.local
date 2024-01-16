@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/09/17 14:20:39.470.cpp,C:\Users\Merlin\Documents\RAD Studio\Projects\Unit1.cpp=C:\Projects\CodeGear\MPUSB\Unit1.cpp</Transaction>
+    <Transaction>2013/09/17 14:20:39.470.h,C:\Users\Merlin\Documents\RAD Studio\Projects\Unit1.h=C:\Projects\CodeGear\MPUSB\Unit1.h</Transaction>
+    <Transaction>2013/09/17 14:20:39.470.dfm,C:\Users\Merlin\Documents\RAD Studio\Projects\Unit1.dfm=C:\Projects\CodeGear\MPUSB\Unit1.dfm</Transaction>
+    <Transaction>2013/09/17 14:20:44.156.cbproj,C:\Users\Merlin\Documents\RAD Studio\Projects\Project1.cbproj=C:\Projects\CodeGear\MPUSB\MPUSB.cbproj</Transaction>
+    <Transaction>2013/09/18 12:26:27.159.cbproj,C:\Projects\CodeGear\MPUSB\MPUSB.cbproj=C:\Projects\CodeGear\MPUSB\USBPT08.cbproj</Transaction>
+    <Transaction>2016/06/06 16:59:01.059.cbproj,C:\Users\jim\Desktop\新增資料夾\USB port測試\USBPT08.cbproj=C:\Users\jim\Desktop\新增資料夾\USB port測試\USBPT016.cbproj</Transaction>
+    <Transaction>2016/06/06 17:01:12.092.cbproj,C:\Users\jim\Desktop\新增資料夾\USB port測試\USBPT016.cbproj=C:\Users\jim\Desktop\新增資料夾\USB port測試\USBPT16.cbproj</Transaction>
+    <Transaction>2016/11/29 14:10:53.788.cbproj,C:\myCode\USB16port\USBPT16.cbproj=C:\myCode\USB16port\USBMoniter.cbproj</Transaction>
+    <Transaction>2016/11/29 14:11:13.106.cbproj,C:\myCode\USB16port\USBMoniter.cbproj=C:\myCode\USB16port\USBMonitor.cbproj</Transaction>
+    <Transaction>2017/01/10 13:35:59.752.rc,D:\SourceCode\BCB\USB16port(2.1.0)\123.rc=</Transaction>
+    <Transaction>2017/01/10 13:36:24.210.res,D:\SourceCode\BCB\USB16port(2.1.0)\123.res=</Transaction>
+    <Transaction>2020/02/25 11:42:30.329.h,D:\SourceCode\BCB\PDVoltageTest\PDVoltageTest Short\PDVoltageTest Short v1.1\usbioctl.h=</Transaction>
+    <Transaction>2020/03/03 09:19:09.135.cpp,D:\SourceCode\BCB\USBView\USB View Gen2Bata\USBDevConnectionInfo.cpp=</Transaction>
+    <Transaction>2020/03/03 09:19:52.088.cpp,D:\SourceCode\BCB\USBMonitor\USBMonitor RD\USBDevConnectionInfo.cpp=</Transaction>
+    <Transaction>2020/03/03 09:21:54.191.cpp,D:\SourceCode\BCB\USBMonitor\USBMonitor RD\USBDevConnectionInfo.cpp=</Transaction>
+  </Transactions>
+</BorlandProject>

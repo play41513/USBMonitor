@@ -1,0 +1,14 @@
+//---------------------------------------------------------------------------
+
+#ifndef GL_PDViewH
+#define GL_PDViewH
+#include <vcl.h>
+//---------------------------------------------------------------------------
+class GL_PDView
+{
+public:
+
+private:
+	AnsiString DosCommand(AnsiString sCmdline,DWORD dwTimeout);
+};
+#endif
